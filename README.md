@@ -13,7 +13,6 @@
 <br/>
 
 <h3>I'm currently: </h3>
-
 - Learning new things
   - C
   - Ruby on Rails
@@ -85,8 +84,8 @@
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass-logo-svgporn" width="50" height="50"/>
-<p align="center">Sass</p>
+<img src="https://cdn.svgporn.com/logos/java.svg" alt="java-logo-svgporn" width="50" height="50"/>
+<p align="center">Java</p>
 
 </div>
 
@@ -176,8 +175,8 @@
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="python-logo-svgporn" width="50" height="50"/>
-<p align="center">Python</p>
+<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
+<p align="center">C</p>
 </div>
 
 </td>
@@ -202,7 +201,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-A&hide=html&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="left"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-A&hide=html&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="left"/> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-A&hide=stars&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="right"/>
 </div>
