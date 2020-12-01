@@ -156,40 +156,28 @@
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
-<p align="center">SQLite</p>
+<img src="https://img2.pngio.com/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.png" alt="Snowflake-logo-svgporn" width="50" height="50"/>
+<p align="center">Snowflake</p>
 </div>
 
 </td>
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgres-logo-svgporn" width="50" height="50"/>
-<p align="center">PostgreSQL</p>
+<img src="https://avatars0.githubusercontent.com/u/1437874?s=400&v=4" alt="Looker-logo-svgporn" width="50" height="50"/>
+<p align="center">LookML</p>
 </div>
 
 </td>
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs-logo-svgporn" width="50" height="50"/>
-<p align="center">Node.js</p>
+<img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL-logo-svgporn" width="50" height="50"/>
+<p align="center">SQL</p>
 </div>
 
 </td>
 
-<td>
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/express.svg" alt="express-logo-svgporn" width="50" height="50"/>
-<p align="center">Express.js</p>
-</div>
-
-</td>
-</tr>
-
-<!-- Fifth row -->
-
-<tr>
 <td>
 
 <div align="center">
@@ -198,6 +186,14 @@
 </div>
 
 </td>
+
+
+</tr>
+
+<!-- Fifth row -->
+
+<tr>
+
 <td>
 
 <div align="center">
