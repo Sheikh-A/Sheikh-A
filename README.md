@@ -76,7 +76,7 @@
 
 <!-- Second row -->
 <tr>
-  
+
 <td>
 
 <div align="center">
@@ -84,8 +84,8 @@
 <p align="center">C</p>
 </div>
 
-</td>  
-  
+</td>
+
 <td width="250px" height="100px">
 
 <div align="center">
@@ -93,8 +93,8 @@
 <p align="center">HTML</p>
 </div>
 
-</td>  
-  
+</td>
+
 <td>
 
 <div align="center">
@@ -172,7 +172,7 @@
 <td>
 
 <div align="center">
-<img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL-logo-svgporn" width="50" height="50"/>
+<img src="https://img.favpng.com/24/5/0/microsoft-azure-sql-database-microsoft-sql-server-png-favpng-m5nRd6sMtpuCETGtdmwQyyTfH.jpg" alt="SQL-logo-svgporn" width="50" height="50"/>
 <p align="center">SQL</p>
 </div>
 
@@ -182,7 +182,7 @@
 
 <div align="center">
 <img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
-<p align="center">Knex</p>
+<p align="center">Knex.js</p>
 </div>
 
 </td>
