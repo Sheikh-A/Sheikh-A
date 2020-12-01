@@ -35,21 +35,22 @@
 <td width="250px" height="100px">
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
-<p align="center">HTML</p>
+<img src="https://cdn.svgporn.com/logos/java.svg" alt="java-logo-svgporn" width="50" height="50"/>
+<p align="center">Java</p>
+
 </div>
 
 </td>
-<td width="250px" height="100px">
+
+<td>
 
 <div align="center">
-
-<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css-logo-svgporn" width="50" height="50"/>
-<p align="center">CSS</p>
-
+<img src="https://cdn.svgporn.com/logos/python.svg" alt="python-logo-svgporn" width="50" height="50"/>
+<p align="center">Python</p>
 </div>
 
 </td>
+
 <td width="250px" height="100px">
 
 <div align="center">
@@ -59,6 +60,8 @@
 </div>
 
 </td>
+
+
 
 <td width="250px" height="100px">
 
@@ -73,6 +76,25 @@
 
 <!-- Second row -->
 <tr>
+  
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
+<p align="center">C</p>
+</div>
+
+</td>  
+  
+<td width="250px" height="100px">
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
+<p align="center">HTML</p>
+</div>
+
+</td>  
+  
 <td>
 
 <div align="center">
@@ -81,15 +103,7 @@
 </div>
 
 </td>
-<td>
 
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java-logo-svgporn" width="50" height="50"/>
-<p align="center">Java</p>
-
-</div>
-
-</td>
 <td>
 
 <div align="center">
@@ -99,14 +113,6 @@
 
 </td>
 
-<td>
-
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github-logo-svgporn" width="50" height="50"/>
-<p align="center">Github</p>
-</div>
-
-</td>
 </tr>
 
 <!-- Third row -->
@@ -164,22 +170,28 @@
 </div>
 
 </td>
-<td>
+
+
+<td width="250px" height="100px">
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="python-logo-svgporn" width="50" height="50"/>
-<p align="center">Python</p>
+
+<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css-logo-svgporn" width="50" height="50"/>
+<p align="center">CSS</p>
+
 </div>
 
 </td>
+
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
-<p align="center">C</p>
+<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github-logo-svgporn" width="50" height="50"/>
+<p align="center">Github</p>
 </div>
 
 </td>
+
 
 </tr>
 </tbody>
@@ -203,5 +215,5 @@
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-A&hide=html&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="left"/> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sheikh-A&hide=stars&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sheikh-A&hide=stars&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="center"/>
 </div>
