@@ -152,6 +152,42 @@
 </tr>
 
 <!-- Fourth row -->
+<tr>
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
+<p align="center">SQLite</p>
+</div>
+
+</td>
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgres-logo-svgporn" width="50" height="50"/>
+<p align="center">PostgreSQL</p>
+</div>
+
+</td>
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs-logo-svgporn" width="50" height="50"/>
+<p align="center">Node.js</p>
+</div>
+
+</td>
+
+<td>
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/express.svg" alt="express-logo-svgporn" width="50" height="50"/>
+<p align="center">Express.js</p>
+</div>
+
+</td>
+</tr>
+
+<!-- Fifth row -->
 
 <tr>
 <td>
