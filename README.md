@@ -76,42 +76,40 @@
 
 <!-- Second row -->
 <tr>
+<td>
+
+<div align="center">
+<img src="https://img2.pngio.com/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.png" alt="Snowflake-logo-svgporn" width="50" height="50"/>
+<p align="center">Snowflake</p>
+</div>
+
+</td>
+<td>
+
+<div align="center">
+<img src="https://avatars0.githubusercontent.com/u/1437874?s=400&v=4" alt="Looker-logo-svgporn" width="50" height="50"/>
+<p align="center">LookML</p>
+</div>
+
+</td>
+<td>
+
+<div align="center">
+<img src="https://img.favpng.com/24/5/0/microsoft-azure-sql-database-microsoft-sql-server-png-favpng-m5nRd6sMtpuCETGtdmwQyyTfH.jpg" alt="SQL-logo-svgporn" width="50" height="50"/>
+<p align="center">SQL</p>
+</div>
+
+</td>
 
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
-<p align="center">C</p>
+<img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
+<p align="center">Knex.js</p>
 </div>
 
 </td>
 
-<td width="250px" height="100px">
-
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
-<p align="center">HTML</p>
-</div>
-
-</td>
-
-<td>
-
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux-logo-svgporn" width="50" height="50"/>
-<p align="center">Redux</p>
-</div>
-
-</td>
-
-<td>
-
-<div align="center">
-<img src="https://cdn.svgporn.com/logos/less.svg" alt="less-logo-svgporn" width="50" height="50"/>
-<p align="center">Less</p>
-</div>
-
-</td>
 
 </tr>
 
@@ -153,27 +151,21 @@
 
 <!-- Fourth row -->
 <tr>
+
 <td>
 
 <div align="center">
-<img src="https://img2.pngio.com/periscope-data-partners-snowflake-computing-logo-clipart-snowflake-computing-png-840_873.png" alt="Snowflake-logo-svgporn" width="50" height="50"/>
-<p align="center">Snowflake</p>
+<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
+<p align="center">C</p>
 </div>
 
 </td>
-<td>
+
+<td width="250px" height="100px">
 
 <div align="center">
-<img src="https://avatars0.githubusercontent.com/u/1437874?s=400&v=4" alt="Looker-logo-svgporn" width="50" height="50"/>
-<p align="center">LookML</p>
-</div>
-
-</td>
-<td>
-
-<div align="center">
-<img src="https://img.favpng.com/24/5/0/microsoft-azure-sql-database-microsoft-sql-server-png-favpng-m5nRd6sMtpuCETGtdmwQyyTfH.jpg" alt="SQL-logo-svgporn" width="50" height="50"/>
-<p align="center">SQL</p>
+<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5-logo-svgporn" width="50" height="50"/>
+<p align="center">HTML</p>
 </div>
 
 </td>
@@ -181,14 +173,24 @@
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
-<p align="center">Knex.js</p>
+<img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux-logo-svgporn" width="50" height="50"/>
+<p align="center">Redux</p>
 </div>
 
 </td>
 
+<td>
+
+<div align="center">
+<img src="https://cdn.svgporn.com/logos/less.svg" alt="less-logo-svgporn" width="50" height="50"/>
+<p align="center">Less</p>
+</div>
+
+</td>
 
 </tr>
+
+
 
 <!-- Fifth row -->
 
