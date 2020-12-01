@@ -250,7 +250,7 @@
 <br/>
 
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-A&hide=html&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="left"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-A&hide=html&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="left"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-A&hide=stars&theme=onedark" alt="https://github.com/Sheikh-A/github-readme-stats" align="center"/>
 </div>
