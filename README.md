@@ -13,10 +13,13 @@
 <br/>
 
 <h3>I'm currently: </h3>
-- Learning new things
-  - C
-  - Ruby on Rails
-  - Algorithms
+
+- A Computer Science Team Lead
+- Learning some new stuff
+  - Nodejs
+  - Graphql
+  - Docker
+- Living the dream!
 
 <br/>
 
