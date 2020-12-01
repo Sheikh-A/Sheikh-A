@@ -14,12 +14,11 @@
 
 <h3>I'm currently: </h3>
 
-- A Computer Science Team Lead
-- Learning some new stuff
-  - Nodejs
-  - Graphql
-  - Docker
-- Living the dream!
+- Learning new things:
+  - C
+  - Algorithms
+  - Ruby on Rails
+
 
 <br/>
 
