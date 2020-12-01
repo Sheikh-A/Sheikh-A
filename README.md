@@ -104,8 +104,8 @@
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
-<p align="center">Knex.js</p>
+<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
+<p align="center">C</p>
 </div>
 
 </td>
@@ -115,14 +115,16 @@
 
 <!-- Third row -->
 <tr>
+
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
-<p align="center">SQLite</p>
+<img src="https://cdn.svgporn.com/logos/knex.svg" alt="knex-logo-svgporn" width="50" height="50"/>
+<p align="center">Knex.js</p>
 </div>
 
 </td>
+
 <td>
 
 <div align="center">
@@ -151,12 +153,11 @@
 
 <!-- Fourth row -->
 <tr>
-
 <td>
 
 <div align="center">
-<img src="https://cdn.svgporn.com/logos/c.svg" alt="c-logo-svgporn" width="50" height="50"/>
-<p align="center">C</p>
+<img src="https://cdn.svgporn.com/logos/sqlite.svg" alt="sqlite-logo-svgporn" width="50" height="50"/>
+<p align="center">SQLite</p>
 </div>
 
 </td>
